@@ -10,7 +10,7 @@ El manual de usuario realizado para esta aplicación, tiene como finalidad prese
 
 ## Manual Técnico
 
-El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación con los componentes necesarios para poder ejecturar cada uno de los scripts. El manual técnico se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/Parallel-Fusimagery/blob/master/Manuales/ManualT%C3%A9cnico-Parallel-Fusimagery.pdf
+El manual técnico realizado para esta aplicación, tiene como finalidad presentar el proceso de instalación con los componentes necesarios para poder ejecturar cada uno de los scripts. El manual técnico se encuentra disponible en la siguiente dirección : https://github.com/Parall-UD/Parallel-Fusimagery/blob/master/Manuales/ManualTecnico-Parallel-Fusimagery.pdf
 
 ## Video Tutorial
 Con el fin de presentar detalladamente el funcionamiento de la aplicación, se realizó un video tutorial donde se presenta la interacción entre el usuario y la plataforma. El video tutorial se encuentra disponible en la siguiente dirección: https://www.youtube.com/watch?v=deytLC8rEcQ&feature=youtu.be
