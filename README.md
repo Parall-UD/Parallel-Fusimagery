@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Parallel Fusimagery esta compuesto por dos Scripts desarrollados en Python, con el fin de realizar la fusión de imágenes de satélite de diferentes resoluciones espaciales y / o provenientes de diferentes sensores remotos mediante la transformada Wavelet. Estos Scripts se desarrollaron tanto en CPU como en procesamiento Heterogéneo más específicamente CPU/GPU, haciendo uso de CUDA mediante Pycuda con el fin de hacer la integración con Python.
+Esta aplicación hace uso de la computación heterogénea Multi-Core (CPU) / Many-Core (GPU) para acelerar el proceso de fusión de imágenes multiespectrales y pancromáticas mediante el uso de la transformada Wavelet Fast Haar.
 
 ## Manual de Usuario
 
